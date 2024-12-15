@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="blueBox.Top" size="1.000000 1.000000"/>
+        <ImageTarget name="blueBox.Front" size="1.000000 1.000000"/>
+        <ImageTarget name="blueBox.Back" size="1.000000 1.000000"/>
+        <ImageTarget name="blueBox.Bottom" size="1.000000 1.000000"/>
+        <ImageTarget name="blueBox.Left" size="1.000000 1.000000"/>
+        <ImageTarget name="blueBox.Right" size="1.000000 1.000000"/>
+        <ImageTarget name="yellowBox.Top" size="1.000000 1.000000"/>
+        <ImageTarget name="yellowBox.Front" size="1.000000 1.000000"/>
+        <ImageTarget name="yellowBox.Back" size="1.000000 1.000000"/>
+        <ImageTarget name="yellowBox.Bottom" size="1.000000 1.000000"/>
+        <ImageTarget name="yellowBox.Left" size="1.000000 1.000000"/>
+        <ImageTarget name="yellowBox.Right" size="1.000000 1.000000"/>
+        <ImageTarget name="redBox.Top" size="1.000000 1.000000"/>
+        <ImageTarget name="redBox.Front" size="1.000000 1.000000"/>
+        <ImageTarget name="redBox.Back" size="1.000000 1.000000"/>
+        <ImageTarget name="redBox.Bottom" size="1.000000 1.000000"/>
+        <ImageTarget name="redBox.Left" size="1.000000 1.000000"/>
+        <ImageTarget name="redBox.Right" size="1.000000 1.000000"/>
+        <ImageTarget name="colorBox.Top" size="10.000000 10.000000"/>
+        <ImageTarget name="colorBox.Front" size="10.000000 10.000000"/>
+        <ImageTarget name="colorBox.Back" size="10.000000 10.000000"/>
+        <ImageTarget name="colorBox.Bottom" size="10.000000 10.000000"/>
+        <ImageTarget name="colorBox.Left" size="10.000000 10.000000"/>
+        <ImageTarget name="colorBox.Right" size="10.000000 10.000000"/>
+        <MultiTarget name="blueBox">
+            <Part name="blueBox.Left" translation="-0.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="blueBox.Right" translation="0.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="blueBox.Front" translation="0 0 0.5" rotation="AD: 1 0 0 0"/>
+            <Part name="blueBox.Back" translation="0 0 -0.5" rotation="AD: 0 1 0 180"/>
+            <Part name="blueBox.Top" translation="0 0.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="blueBox.Bottom" translation="0 -0.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="yellowBox">
+            <Part name="yellowBox.Left" translation="-0.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="yellowBox.Right" translation="0.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="yellowBox.Front" translation="0 0 0.5" rotation="AD: 1 0 0 0"/>
+            <Part name="yellowBox.Back" translation="0 0 -0.5" rotation="AD: 0 1 0 180"/>
+            <Part name="yellowBox.Top" translation="0 0.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="yellowBox.Bottom" translation="0 -0.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="redBox">
+            <Part name="redBox.Left" translation="-0.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="redBox.Right" translation="0.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="redBox.Front" translation="0 0 0.5" rotation="AD: 1 0 0 0"/>
+            <Part name="redBox.Back" translation="0 0 -0.5" rotation="AD: 0 1 0 180"/>
+            <Part name="redBox.Top" translation="0 0.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="redBox.Bottom" translation="0 -0.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="colorBox">
+            <Part name="colorBox.Left" translation="-5.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="colorBox.Right" translation="5.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="colorBox.Front" translation="0 0 5.0" rotation="AD: 1 0 0 0"/>
+            <Part name="colorBox.Back" translation="0 0 -5.0" rotation="AD: 0 1 0 180"/>
+            <Part name="colorBox.Top" translation="0 5.0 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="colorBox.Bottom" translation="0 -5.0 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
