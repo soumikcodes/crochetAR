@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
     <Tracking>
+        <ImageTarget name="crochet_image" size="3.000000 3.000000"/>
         <ImageTarget name="blueBox.Top" size="1.000000 1.000000"/>
         <ImageTarget name="blueBox.Front" size="1.000000 1.000000"/>
         <ImageTarget name="blueBox.Back" size="1.000000 1.000000"/>
