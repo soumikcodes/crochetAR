@@ -40,6 +40,15 @@ It is both a creative exploration of technology and a celebration of traditional
 - Build the application by clicking **Build and Run** to deploy it to your device.
 
 ### 6. Test and Interact:
-- Once the app is running on your Android device, point the camera at the crocheted pattern.
-- The virtual butterfly will appear and can be interacted with in the AR space.
+- Install the .apk file on your android device
+- Launch the application after installation is complete
+- Once the app is running on your Android device, point the camera at the crocheted pattern, the butterfly should spawn.
+- Point at the different multi target cubes(red, blue and yellow) to change colour of the butterfly's wings.
+
+### 7. Image Targets:
+![image](https://github.com/user-attachments/assets/7b5c68b4-b430-4c04-bc71-de88babab894)
+
+
+
+
 
