@@ -54,4 +54,5 @@ It is both a creative exploration of technology and a celebration of traditional
 Image Target
 
 ![WhatsApp Image 2024-12-16 at 19 19 49_6666a199](https://github.com/user-attachments/assets/01fb0146-3d0b-4452-99a9-e69d5fd67db3)
+<img src="https://github.com/user-attachments/assets/01fb0146-3d0b-4452-99a9-e69d5fd67db3" alt="WhatsApp Image" width="500" />
 The multitarget cubes for changing colour
