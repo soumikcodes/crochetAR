@@ -50,6 +50,8 @@ It is both a creative exploration of technology and a celebration of traditional
 - Once the app is running on your Android device, point the camera at the crocheted pattern, the butterfly should spawn.
 - Point at the different multi target cubes(red, blue and yellow) to change colour of the butterfly's wings.
 ### 7. Image Targets:
-![image](https://github.com/user-attachments/assets/7b5c68b4-b430-4c04-bc71-de88babab894)
 ![WhatsApp Image 2024-12-15 at 20 38 31_933da04d](https://github.com/user-attachments/assets/28826c0a-d5fa-4410-a018-6c84315a4bb9)
 Image Target
+
+![WhatsApp Image 2024-12-16 at 19 19 49_6666a199](https://github.com/user-attachments/assets/01fb0146-3d0b-4452-99a9-e69d5fd67db3)
+The multitarget cubes for changing colour
