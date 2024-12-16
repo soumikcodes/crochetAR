@@ -51,3 +51,5 @@ It is both a creative exploration of technology and a celebration of traditional
 - Point at the different multi target cubes(red, blue and yellow) to change colour of the butterfly's wings.
 ### 7. Image Targets:
 ![image](https://github.com/user-attachments/assets/7b5c68b4-b430-4c04-bc71-de88babab894)
+![WhatsApp Image 2024-12-15 at 20 38 31_933da04d](https://github.com/user-attachments/assets/28826c0a-d5fa-4410-a018-6c84315a4bb9)
+Image Target
