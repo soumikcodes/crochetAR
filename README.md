@@ -11,6 +11,8 @@ This project aims to bridge the tactile world of handcrafted crochet art with th
 
 It is both a creative exploration of technology and a celebration of traditional craft. For instance, a crocheted butterfly pattern generates a lifelike virtual butterfly that moves within the AR space and can be interacted with. Also, the butterfly changes color when specific targets are observed.
 
+***************[DEMO VIDEO](https://www.youtube.com/shorts/Ik0tH5m5mg8)***************
+
 ---
 
 ## Steps:
